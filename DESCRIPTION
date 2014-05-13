@@ -3,7 +3,9 @@ Title: Skryf R in Afrikaans - as jy lus is
 Version: 0.1
 Author: Leon du Toit
 Description: Allows you to write code in Afrikaans instead of English
-Depends: R (>= 3.1.0)
+Depends:
+    R (>= 3.1.0)
 License: MIT
 LazyData: true
-Suggests: testthat
+Suggests:
+    testthat
